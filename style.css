@@ -1,0 +1,31 @@
+.obj1:hover{
+    background-color: #fc8a06;
+    color: black;
+    border-radius: 9px;
+    width: auto;
+}
+.navbar-nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.name{
+    color: #fc8a06;
+}
+.btn1{
+    color: #fc8a06;
+    border-radius: 8px;
+    border: #fc8a06 solid 2px;
+    padding: 10px;
+}
+.last-section{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    background-color: #04081e;
+}
+.dimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
