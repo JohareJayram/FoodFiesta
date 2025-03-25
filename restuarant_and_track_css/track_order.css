@@ -1,0 +1,17 @@
+.bg-track {
+  background-color: rgb(245, 159, 0) !important;
+}
+
+.track-heading {
+  text-decoration: underline;
+  text-decoration-color: orange;
+}
+
+.order-img {
+  height: 120px;
+  width: 212.74px;
+}
+
+.food-item1 {
+  width: 30%;
+}

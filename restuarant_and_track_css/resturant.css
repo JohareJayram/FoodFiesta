@@ -1,0 +1,18 @@
+.banner-rect {
+  background-color: #03081f;
+  opacity: 90%;
+}
+
+.card {
+  cursor: pointer;
+  box-shadow: 0px 0px 6px 0px #fc8a06;
+  transition: all 200ms ease;
+}
+
+.card:hover {
+  scale: 1.04;
+}
+
+.operational-bg {
+  background-color: #03081f;
+}
